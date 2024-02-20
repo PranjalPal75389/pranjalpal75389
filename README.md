@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**PranjalPal75389/pranjalpal75389** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about web development and programming. Here's a bit about me:
 
-Here are some ideas to get you started:
+- 🌱 Currently learning: JavaScript (JS) to enhance my front-end skills.
+- 💡 Interested in: Web development, open source projects.
+- 📚 Proficient in: HTML, CSS, and the basics of Java and C++.
+- 🚀 Goals: Building cool web projects and contributing to open source.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with Me
+- 🌐 LinkedIn
+- 🐦 Twitter
+
+Let's code together! 🌟
