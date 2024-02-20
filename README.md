@@ -8,7 +8,7 @@ I'm passionate about web development and programming. Here's a bit about me:
 - 🚀 Goals: Building cool web projects and contributing to open source.
 
 ## Connect with Me
-- 🌐 LinkedIn
-- 🐦 Twitter
+- 🌐 LinkedIn - https://www.linkedin.com/in/pranjal-pal-239b86231/
+- 🐦 Twitter  
 
 Let's code together! 🌟
