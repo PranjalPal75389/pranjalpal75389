@@ -12,3 +12,8 @@ I'm passionate about web development and programming. Here's a bit about me:
 - 🐦 Twitter  
 
 Let's code together! 🌟
+
+watch this repo
+https://github.com/PranjalPal75389/js
+
+https://github.com/PranjalPal75389/Web
