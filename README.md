@@ -8,8 +8,9 @@ I'm passionate about web development and programming. Here's a bit about me:
 - 🚀 Goals: Building cool web projects and contributing to open source.
 
 ## Connect with Me
+- E-MAIL- palpranjal75389@gmail.com
+- phone- 7208729455
 - 🌐 LinkedIn - https://www.linkedin.com/in/pranjal-pal-239b86231/
-- 🐦 Twitter  
 
 Let's code together! 🌟
 
